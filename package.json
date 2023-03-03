@@ -1,5 +1,5 @@
 {
-  "name": "product-comparison",
+  "name": "detect-product",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
